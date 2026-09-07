@@ -9,9 +9,9 @@ I have prepared a collection of selected assignments for you here, for your impr
 I hope it will help you💕
 
 ## Overview
-
+* **`JAVA_A`**: Introduction to Java programming and core Object-Oriented Programming (OOP) concepts.
+* **`JAVA_B`**: Advanced Java programming implementations, focusing on complex data structures, recursion, concurrency/multithreading, and GUI architecture.
 * **`LAB_IN_C`**: Systems programming projects in C, focusing on low-level memory management, dynamic data structures, and algorithmic efficiency.
-* **`JAVA_B`**: Advanced Java programming implementations, focusing on data structures, recursion, concurrency/multithreading, and GUI architecture.
 * **`MNMA`**: Advanced data structures and algorithmic efficiency analysis, emphasizing time and space complexity optimizations.
 
  > let me know if there anything to add/fix
