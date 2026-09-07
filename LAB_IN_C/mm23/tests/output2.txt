@@ -1,0 +1,3 @@
+ERORR, not enogth chars in file:test.txt
+ERORR, cant open file name:missing.txt
+ERORR,invalid number

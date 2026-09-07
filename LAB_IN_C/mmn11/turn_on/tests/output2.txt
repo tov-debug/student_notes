@@ -1,0 +1,7 @@
+please enter a number
+
+the original number:
+1111111111111111111111111111111111111111111111111111111111111111
+in 10 base the number is -1
+the 17th bit is already turn on
+ that way there is no change

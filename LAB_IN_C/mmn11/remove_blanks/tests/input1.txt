@@ -1,0 +1,45 @@
+#include <string.h>
+#include <stdio.h>
+#include <ctype.h> 
+
+void remove_blanks(char str[]);
+
+int main()
+{
+  int i = 0;
+  char str[1000];
+  int c;
+  printf("Please enter a valid string, at the end press cntr + d\n");
+  c = getchar();
+  while(c != EOF)
+  {
+    str[i++] = c;
+    c = getchar();
+  }
+  str[i] = '\0'; 
+  printf("\nThe input string:\n");
+  printf("%s\n", str);
+  remove_blanks(str);
+  return 0;
+}
+
+void remove_blanks(char str[])
+{
+  int i = 0;
+  int j = 0;
+  
+  printf("The string as received by the function:\n");
+  printf("%s\n", str); 
+  while(i < strlen(str)) 
+  {
+    if (!isspace(str[i])) 
+    {
+      str[j] = str[i];
+      j++;
+    }
+    i++;
+  }
+  str[j] = '\0'; 
+  printf("The string at the end of the function:\n");
+  printf("%s\n", str); 
+}

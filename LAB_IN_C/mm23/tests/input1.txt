@@ -1,0 +1,2 @@
+
+./seek 1 test.txt

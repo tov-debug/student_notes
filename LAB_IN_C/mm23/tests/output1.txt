@@ -1,0 +1,1 @@
+the  asci code for the char in the required position is: 73
