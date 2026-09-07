@@ -1,0 +1,7 @@
+please enter a number
+
+the original number:
+0000000000000000000000000000000000000000000000010000000000000000
+in 10 base the number is 65536
+the 17th bit is already turn on
+ that way there is no change

@@ -1,0 +1,78 @@
+Please enter a command
+the command:read_comp G, 3.1, 6.5 
+
+Undefined complex variable
+the command:print_comp A 
+
+0.00 + (0.00 )i 
+
+the command:print_comp B 
+
+0.00 + (0.00 )i 
+
+the command:read_comp a, 3.6, 5.1   
+
+Undefined complex variable
+the command:do_it A, B  
+
+Undefined command name
+
+the command:Add_Comp A, C   
+
+Undefined command name
+
+the command:read_comp A, 3.5, xyz   
+
+Invalid parameter - not a number
+
+the command:read_comp A, 3.5 
+
+Missing parameter
+
+the command:read_comp A, 3.5, -3, 
+
+Multiple consecutive commas
+
+the command:add_comp B
+
+Missing parameter
+
+the command:print_comp C, D
+
+Multiple consecutive commas
+
+the command:sub_comp F, , D 
+
+Multiple consecutive commas
+
+the command:mult_comp_comp F D  
+
+Missing comma
+
+the command:mult_comp_real, A, 2.5
+
+Illegal comma
+
+the command:mult_comp_img A, B 
+
+Invalid parameter - not a number
+
+the command:abs_comp  
+
+Missing parameter
+
+the command:abs_comp 2.5 
+
+Undefined complex variable
+the command:stop A 
+
+Extraneous text after end of command
+
+the command:
+
+
+>the command:
+
+
+>didnt put quit
+

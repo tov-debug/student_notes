@@ -1,0 +1,12 @@
+Please enter a valid string, at the end press cntr + d
+
+The input string:
+I have no more interesting ideas, so I will just leave a bit mess here: tyh /.';l gyu ui    uuihausf         hvuh  huih. jioa;' ihui fvak 
+
+
+The string as received by the function:
+I have no more interesting ideas, so I will just leave a bit mess here: tyh /.';l gyu ui    uuihausf         hvuh  huih. jioa;' ihui fvak 
+
+
+The string at the end of the function:
+Ihavenomoreinterestingideas,soIwilljustleaveabitmesshere:tyh/.';lgyuuiuuihausfhvuhhuih.jioa;'ihuifvak

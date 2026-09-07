@@ -1,0 +1,84 @@
+Please enter a command
+the command:print_comp A 
+
+0.00 + (0.00 )i 
+
+the command:print_comp B 
+
+0.00 + (0.00 )i 
+
+the command:print_comp C 
+
+0.00 + (0.00 )i 
+
+the command:read_comp A, 45.1, -23.75 
+
+
+the command:print_comp A 
+
+45.10 + (-23.75 )i 
+
+the command:read_comp B, 54.2, 3.56 
+
+
+the command:print_comp B 
+
+54.20 + (3.56 )i 
+
+the command:read_comp C, 0, -115
+
+
+the command:print_comp C 
+
+0.00 + (-115.00 )i 
+
+the command:add_comp A, B 
+
+99.30 + (-20.19 )i 
+
+the command:sub_comp C, A 
+
+-45.10 + (-91.25 )i 
+
+the command:sub_comp B, B 
+
+0.00 + (0.00 )i 
+
+the command:sub_comp D, A 
+
+-45.10 + (23.75 )i 
+
+the command:mult_comp_real A, 2.51 
+
+113.20 + (-59.61 )i 
+
+the command:mult_comp_img A, -2.564 
+
+-60.90 + (-115.64 )i 
+
+the command:mult_comp_comp A, B 
+
+2528.97 + (-1126.69 )i 
+
+the command:mult_comp_comp    E   ,     C 
+
+0.00 + (0.00 )i 
+
+the command:abs_comp A 
+
+50.97 + (0.00 )i 
+
+the command:abs_comp B 
+
+54.32 + (0.00 )i 
+
+the command:abs_comp C 
+
+115.00 + (0.00 )i 
+
+the command:abs_comp F 
+
+0.00 + (0.00 )i 
+
+the command:stop 
+

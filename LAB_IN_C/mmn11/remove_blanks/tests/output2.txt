@@ -1,0 +1,10 @@
+Please enter a valid string, at the end press cntr + d
+
+The input string:
+I put in the previous tester the whole program ;)
+
+The string as received by the function:
+I put in the previous tester the whole program ;)
+
+The string at the end of the function:
+Iputintheprevioustesterthewholeprogram;)

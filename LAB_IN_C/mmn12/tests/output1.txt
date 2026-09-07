@@ -1,0 +1,26 @@
+enter 2 numbers each time for quit enter ctrl+d
+the numbers 1 and 2 are the current input
+for the macro ABS the output id 1
+for the macro SUM the output id 3
+for the function findDifferenceAndSum the output is dif: 1 sum: 3
+the numbers 3 and 4 are the current input
+for the macro ABS the output id 1
+for the macro SUM the output id 7
+for the function findDifferenceAndSum the output is dif: 1 sum: 7
+the numbers 5 and 6 are the current input
+for the macro ABS the output id 1
+for the macro SUM the output id 11
+for the function findDifferenceAndSum the output is dif: 1 sum: 11
+the numbers 7 and 8 are the current input
+for the macro ABS the output id 1
+for the macro SUM the output id 15
+for the function findDifferenceAndSum the output is dif: 1 sum: 15
+the numbers 9 and 10 are the current input
+for the macro ABS the output id 1
+for the macro SUM the output id 19
+for the function findDifferenceAndSum the output is dif: 1 sum: 19
+first couple: 2,1
+first couple: 4,3
+first couple: 6,5
+first couple: 8,7
+first couple: 10,9
